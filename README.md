@@ -3,7 +3,7 @@ Spoof CID (ConsoleID) on PSVITA
 
 Possible uses include:          
 Unbanning your vita from PSN,          
-Generating act.dat,             
+Generating act.dat for other consoles,             
 Accessing sp-int on retail.               
 
 add to your *KERNEL line in config.txt.                  
