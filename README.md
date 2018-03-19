@@ -13,9 +13,10 @@ Ever wondered what a console ban looks like?
 set your cid to 00000001010400100C0AA7E2B9F68F7D (Contributed by u/Pahan55)           
 to find out              
 
-Alternatively here is a valid, not-banned CID, this was extracted from MLTActivator.           
-If you have a banned vita, change your CID to this and you can access PSN again.          
-00000001010500100C04BDEF4B8F0A87     
+What if you dont want a console ban?        
+well you could try spoofing to 00000001010500100C04BDEF4B8F0A87,                        
+Before anyone freaks out about me sharing someones CID. this was allready public            
+i extracted it from MLTActivator, at this current time of writing this it isnt banned!          
 
 
 If you dont see a CID.BIN after installing, try connecting to PSN or open VitaIDENT,
