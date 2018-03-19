@@ -1,7 +1,7 @@
 # cidSpoofer
 Spoof CID (ConsoleID) on PSVITA
 
-Could maybe be used to unban your console from PSN            
+Could possibly be used to unban your console from PSN            
 
 
 add to your \*KERNEL line in config.txt.                  
