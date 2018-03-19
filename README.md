@@ -14,4 +14,7 @@ set your cid to 00000001010400100C0AA7E2B9F68F7D (Contributed by u/Pahan55)
 to find out              
 
 
+If you dont see a CID.BIN after installing, try connecting to PSN or open VitaIDENT,
+the CID.BIN is only written after ksceSblAimgrGetConsoleId is called.
+
 !!Works on 3.65!!
