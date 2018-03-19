@@ -1,8 +1,5 @@
 //CID SPOOFER
-
-///@SilicaAndPina - Dev
-//CID SPOOFER
-
+//
 //SILICAANDPINA!
 
 
