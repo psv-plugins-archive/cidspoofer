@@ -23,3 +23,5 @@ If you dont see a CID.BIN after installing, try connecting to PSN or open VitaID
 the CID.BIN is only written after ksceSblAimgrGetConsoleId is called.
 
 !!Works on 3.65!!
+
+Download: https://bitbucket.org/SilicaAndPina/cidspoofer/downloads/cidSpoof.skprx   
