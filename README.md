@@ -22,6 +22,6 @@ i extracted it from MLTActivator, at this current time of writing this it isnt b
 If you dont see a CID.BIN after installing, try connecting to PSN or open VitaIDENT,
 the CID.BIN is only written after ksceSblAimgrGetConsoleId is called.
 
-!!Works on 3.65!!
+!!Works on 3.xx!!
 
 Download: https://bitbucket.org/SilicaAndPina/cidspoofer/downloads/cidSpoof.skprx   
